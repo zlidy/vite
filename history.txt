@@ -1,0 +1,46 @@
+    1  node -v
+    2  npx vitepress init
+    3  npm add -D vitepress
+    4  npx vitepress init
+    5  node -v
+    6  git -v
+    7  npx vitepress init
+    8  `npm install -g npm@10.4.0
+    9  node -v
+   10  npx vitepress init
+   11  npm cache clean -f
+   12  npx vitepress init
+   13  npx vitepress init
+   14  npm install -g vitepress
+   15  vitepress init
+   16  npm vitepress init
+   17  npx vitepress init
+   18  node -v
+   19  npx vitepress init
+   20  git config --global user.name
+   21  git config --local -l
+   22  git init
+   23  git config --local user.name "zlidy"
+   24  git config --local user.email "zl.zhangcurry@gmail.com"
+   25  git config -l
+   26  git config --local -l
+   27  git add .
+   28  git commit
+   29  git add .
+   30  git commit -m "git-manual"
+   31  git push git-manual:git-manual
+   32  git push -f
+   33  git config --local user.name "zlidy"
+   34  git config --local user.email "zl.zhangcurry@gmail.com"
+   35  git config --global -l
+   36  git config --local -l
+   37  git add -A
+   38  git commit -m "First commit"
+   39  git branch -a
+   40  git push -u vite master
+   41  git push
+   42  git push https://github.com/zlidy/vite
+   43  git push --set-upstream https://github.com/zlidy/vite master
+   44  git push --set-upstream https://github.com/zlidy/vite master
+   45  git push --set-upstream https://github.com/zlidy/vite master
+   46  history > history.txt
